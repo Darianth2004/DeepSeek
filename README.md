@@ -1,8 +1,8 @@
 # DeepSeek
 
-api.deepseek.com
+base_url = "https://api.deepseek.cn/v1"
+api_key = "sk-2c1b2d3e318d44508eaba81cf7f85a21"
 
-sk-2c1b2d3e318d44508eaba81cf7f85a21
 sk-9f8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c
 sk-8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3
 sk-7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d2
